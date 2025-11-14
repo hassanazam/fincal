@@ -281,15 +281,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Oil & Gas Exploration",
-    "currentPrice": 597.23,
+    "currentPrice": 593.83,
     "dividend": {
-      "yieldTTM": 15.91,
-      "yieldLastYear": 15.00,
-      "annualPayoutTTM": 95.02,
-      "frequency": "annual"
+      "yieldTTM": 12.63,
+      "yieldLastYear": 15.99,
+      "annualPayoutTTM": 75.00,
+      "frequency": "semiannual"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z",
-    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
+    "lastUpdated": "2025-01-14T17:30:00Z"
   },
   {
     "ticker": "TGL",
