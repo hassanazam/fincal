@@ -1,35 +1,35 @@
 [
   {
-    "ticker": "ABL",
-    "name": "Allied Bank Limited",
+    "ticker": "AICL",
+    "name": "Adamjee Insurance Company Limited",
+    "exchange": "PSX",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "sector": "Insurance",
+    "currentPrice": 76.19,
+    "dividend": {
+      "yieldTTM": 5.25,
+      "yieldLastYear": 4.50,
+      "annualPayoutTTM": 4.00,
+      "frequency": "semiannual"
+    },
+    "lastUpdated": "2025-01-14T18:00:00Z"
+  },
+  {
+    "ticker": "AKBL",
+    "name": "Askari Bank Limited",
     "exchange": "PSX",
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Commercial Banks",
-    "currentPrice": 170.72,
+    "currentPrice": 98.04,
     "dividend": {
-      "yieldTTM": 9.37,
-      "yieldLastYear": 8.85,
-      "annualPayoutTTM": 16.00,
-      "frequency": "quarterly"
-    },
-    "lastUpdated": "2025-01-14T16:00:00Z"
-  },
-  {
-    "ticker": "APL",
-    "name": "Attock Petroleum Limited",
-    "exchange": "PSX",
-    "country": "Pakistan",
-    "currency": "PKR",
-    "sector": "Oil & Gas Marketing",
-    "currentPrice": 532.37,
-    "dividend": {
-      "yieldTTM": 4.79,
-      "yieldLastYear": 5.16,
-      "annualPayoutTTM": 25.50,
+      "yieldTTM": 2.55,
+      "yieldLastYear": 2.55,
+      "annualPayoutTTM": 2.50,
       "frequency": "semiannual"
     },
-    "lastUpdated": "2025-01-14T17:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
     "ticker": "BAFL",
@@ -45,7 +45,7 @@
       "annualPayoutTTM": 10.00,
       "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T17:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
     "ticker": "BAHL",
@@ -61,7 +61,23 @@
       "annualPayoutTTM": 17.00,
       "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
+  },
+  {
+    "ticker": "BOP",
+    "name": "The Bank of Punjab",
+    "exchange": "PSX",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "sector": "Commercial Banks",
+    "currentPrice": 35.15,
+    "dividend": {
+      "yieldTTM": 5.69,
+      "yieldLastYear": 5.69,
+      "annualPayoutTTM": 2.00,
+      "frequency": "annual"
+    },
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
     "ticker": "EFERT",
@@ -77,58 +93,40 @@
       "annualPayoutTTM": 21.50,
       "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
-    "ticker": "ENGRO",
-    "name": "Engro Corporation Limited",
+    "ticker": "ENGROH",
+    "name": "Engro Holdings Limited",
     "exchange": "PSX",
     "country": "Pakistan",
     "currency": "PKR",
-    "sector": "Chemicals",
-    "currentPrice": 485.38,
+    "sector": "Conglomerate",
+    "currentPrice": 219.80,
     "dividend": {
       "yieldTTM": 0.00,
-      "yieldLastYear": 9.89,
-      "annualPayoutTTM": 0.00,
-      "frequency": "quarterly"
-    },
-    "lastUpdated": "2025-01-14T17:00:00Z",
-    "status": "delisted",
-    "note": "Company has been delisted from PSX and will not pay future dividends (last ex-div: Nov 7, 2024)"
-  },
-  {
-    "ticker": "EPCL",
-    "name": "Engro Polymer & Chemicals Limited",
-    "exchange": "PSX",
-    "country": "Pakistan",
-    "currency": "PKR",
-    "sector": "Chemicals",
-    "currentPrice": 27.84,
-    "dividend": {
-      "yieldTTM": 0.00,
-      "yieldLastYear": 3.59,
+      "yieldLastYear": 4.48,
       "annualPayoutTTM": 0.00,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z",
-    "note": "No dividends paid in past 12 months (last payment Mar 19, 2024)"
+    "lastUpdated": "2025-01-14T18:00:00Z",
+    "note": "No dividends paid in TTM (last payment: Nov 11, 2024)"
   },
   {
-    "ticker": "EPQL",
-    "name": "Engro Powergen Qadirpur Limited",
+    "ticker": "FABL",
+    "name": "Faysal Bank Limited",
     "exchange": "PSX",
     "country": "Pakistan",
     "currency": "PKR",
-    "sector": "Power Generation",
-    "currentPrice": 29.07,
+    "sector": "Commercial Banks",
+    "currentPrice": 84.74,
     "dividend": {
-      "yieldTTM": 34.40,
-      "yieldLastYear": 24.57,
-      "annualPayoutTTM": 10.00,
+      "yieldTTM": 8.26,
+      "yieldLastYear": 7.67,
+      "annualPayoutTTM": 7.00,
       "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
     "ticker": "FATIMA",
@@ -144,7 +142,7 @@
       "annualPayoutTTM": 8.50,
       "frequency": "semiannual"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
     "ticker": "FFC",
@@ -160,7 +158,24 @@
       "annualPayoutTTM": 38.00,
       "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T17:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
+  },
+  {
+    "ticker": "GTYR",
+    "name": "Ghandhara Tyre and Rubber Company Limited",
+    "exchange": "PSX",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "sector": "Automobile Parts",
+    "currentPrice": 36.98,
+    "dividend": {
+      "yieldTTM": 0.00,
+      "yieldLastYear": 5.05,
+      "annualPayoutTTM": 0.00,
+      "frequency": "annual"
+    },
+    "lastUpdated": "2025-01-14T18:00:00Z",
+    "note": "No dividends paid in TTM (last payment: Oct 17, 2024)"
   },
   {
     "ticker": "HBL",
@@ -176,55 +191,23 @@
       "annualPayoutTTM": 20.00,
       "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T17:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
-    "ticker": "HMB",
-    "name": "Habib Metropolitan Bank Limited",
+    "ticker": "HUBC",
+    "name": "The Hub Power Company Limited",
     "exchange": "PSX",
     "country": "Pakistan",
     "currency": "PKR",
-    "sector": "Commercial Banks",
-    "currentPrice": 114.81,
+    "sector": "Power Generation",
+    "currentPrice": 207.88,
     "dividend": {
-      "yieldTTM": 10.45,
-      "yieldLastYear": 11.32,
-      "annualPayoutTTM": 12.00,
-      "frequency": "quarterly"
+      "yieldTTM": 9.62,
+      "yieldLastYear": 7.22,
+      "annualPayoutTTM": 20.00,
+      "frequency": "semiannual"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z"
-  },
-  {
-    "ticker": "INDU",
-    "name": "Indus Motor Company Limited",
-    "exchange": "PSX",
-    "country": "Pakistan",
-    "currency": "PKR",
-    "sector": "Automobile Assembler",
-    "currentPrice": 1997.73,
-    "dividend": {
-      "yieldTTM": 8.81,
-      "yieldLastYear": 6.05,
-      "annualPayoutTTM": 176.00,
-      "frequency": "quarterly"
-    },
-    "lastUpdated": "2025-01-14T16:00:00Z"
-  },
-  {
-    "ticker": "ISL",
-    "name": "International Steels Limited",
-    "exchange": "PSX",
-    "country": "Pakistan",
-    "currency": "PKR",
-    "sector": "Iron & Steel",
-    "currentPrice": 88.03,
-    "dividend": {
-      "yieldTTM": 2.84,
-      "yieldLastYear": 6.25,
-      "annualPayoutTTM": 2.50,
-      "frequency": "annual"
-    },
-    "lastUpdated": "2025-01-14T16:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
     "ticker": "KAPCO",
@@ -240,7 +223,7 @@
       "annualPayoutTTM": 7.00,
       "frequency": "semiannual"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
     "ticker": "MCB",
@@ -256,23 +239,55 @@
       "annualPayoutTTM": 36.00,
       "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T17:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
-    "ticker": "NCL",
-    "name": "Nishat Chunian Limited",
+    "ticker": "MEBL",
+    "name": "Meezan Bank Limited",
     "exchange": "PSX",
     "country": "Pakistan",
     "currency": "PKR",
-    "sector": "Textiles",
-    "currentPrice": 43.29,
+    "sector": "Commercial Banks",
+    "currentPrice": 417.25,
     "dividend": {
-      "yieldTTM": 4.62,
-      "yieldLastYear": 4.62,
-      "annualPayoutTTM": 2.00,
-      "frequency": "annual"
+      "yieldTTM": 6.71,
+      "yieldLastYear": 6.95,
+      "annualPayoutTTM": 28.00,
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
+  },
+  {
+    "ticker": "MTL",
+    "name": "Millat Tractors Limited",
+    "exchange": "PSX",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "sector": "Automobile Assembler",
+    "currentPrice": 515.02,
+    "dividend": {
+      "yieldTTM": 11.65,
+      "yieldLastYear": 11.65,
+      "annualPayoutTTM": 60.00,
+      "frequency": "semiannual"
+    },
+    "lastUpdated": "2025-01-14T18:00:00Z"
+  },
+  {
+    "ticker": "OGDC",
+    "name": "Oil & Gas Development Company Limited",
+    "exchange": "PSX",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "sector": "Oil & Gas Exploration",
+    "currentPrice": 240.03,
+    "dividend": {
+      "yieldTTM": 6.27,
+      "yieldLastYear": 4.64,
+      "annualPayoutTTM": 15.05,
+      "frequency": "quarterly"
+    },
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
     "ticker": "POL",
@@ -288,23 +303,7 @@
       "annualPayoutTTM": 75.00,
       "frequency": "semiannual"
     },
-    "lastUpdated": "2025-01-14T17:30:00Z"
-  },
-  {
-    "ticker": "TGL",
-    "name": "Tariq Glass Industries Limited",
-    "exchange": "PSX",
-    "country": "Pakistan",
-    "currency": "PKR",
-    "sector": "Glass & Ceramics",
-    "currentPrice": 180.18,
-    "dividend": {
-      "yieldTTM": 2.22,
-      "yieldLastYear": 2.22,
-      "annualPayoutTTM": 4.00,
-      "frequency": "annual"
-    },
-    "lastUpdated": "2025-01-14T16:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   },
   {
     "ticker": "UBL",
@@ -320,6 +319,6 @@
       "annualPayoutTTM": 32.00,
       "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z"
+    "lastUpdated": "2025-01-14T18:00:00Z"
   }
 ]
