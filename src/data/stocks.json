@@ -22,15 +22,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Oil & Gas Marketing",
-    "currentPrice": 535.32,
+    "currentPrice": 532.37,
     "dividend": {
-      "yieldTTM": 4.76,
-      "yieldLastYear": 4.52,
-      "annualPayoutTTM": 25.48,
-      "frequency": "annual"
+      "yieldTTM": 4.79,
+      "yieldLastYear": 5.16,
+      "annualPayoutTTM": 25.50,
+      "frequency": "semiannual"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z",
-    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
+    "lastUpdated": "2025-01-14T17:00:00Z"
   },
   {
     "ticker": "BAFL",
@@ -39,15 +38,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Commercial Banks",
-    "currentPrice": 103.83,
+    "currentPrice": 102.88,
     "dividend": {
-      "yieldTTM": 8.19,
-      "yieldLastYear": 7.75,
-      "annualPayoutTTM": 8.50,
-      "frequency": "annual"
+      "yieldTTM": 9.72,
+      "yieldLastYear": 10.69,
+      "annualPayoutTTM": 10.00,
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z",
-    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
+    "lastUpdated": "2025-01-14T17:00:00Z"
   },
   {
     "ticker": "BAHL",
@@ -90,13 +88,14 @@
     "sector": "Chemicals",
     "currentPrice": 485.38,
     "dividend": {
-      "yieldTTM": 0.21,
-      "yieldLastYear": 4.10,
-      "annualPayoutTTM": 1.02,
-      "frequency": "annual"
+      "yieldTTM": 0.00,
+      "yieldLastYear": 9.89,
+      "annualPayoutTTM": 0.00,
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z",
-    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
+    "lastUpdated": "2025-01-14T17:00:00Z",
+    "status": "delisted",
+    "note": "Company has been delisted from PSX and will not pay future dividends (last ex-div: Nov 7, 2024)"
   },
   {
     "ticker": "EPCL",
@@ -154,15 +153,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Fertilizer",
-    "currentPrice": 532.33,
+    "currentPrice": 512.88,
     "dividend": {
-      "yieldTTM": 6.86,
-      "yieldLastYear": 6.50,
-      "annualPayoutTTM": 36.52,
-      "frequency": "annual"
+      "yieldTTM": 7.41,
+      "yieldLastYear": 7.41,
+      "annualPayoutTTM": 38.00,
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z",
-    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
+    "lastUpdated": "2025-01-14T17:00:00Z"
   },
   {
     "ticker": "HBL",
@@ -171,15 +169,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Commercial Banks",
-    "currentPrice": 280.01,
+    "currentPrice": 279.33,
     "dividend": {
-      "yieldTTM": 5.80,
-      "yieldLastYear": 5.50,
-      "annualPayoutTTM": 16.24,
-      "frequency": "annual"
+      "yieldTTM": 7.16,
+      "yieldLastYear": 6.28,
+      "annualPayoutTTM": 20.00,
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z",
-    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
+    "lastUpdated": "2025-01-14T17:00:00Z"
   },
   {
     "ticker": "HMB",
@@ -252,15 +249,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Commercial Banks",
-    "currentPrice": 349.58,
+    "currentPrice": 349.51,
     "dividend": {
       "yieldTTM": 10.30,
-      "yieldLastYear": 9.75,
-      "annualPayoutTTM": 36.01,
-      "frequency": "annual"
+      "yieldLastYear": 10.30,
+      "annualPayoutTTM": 36.00,
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T16:00:00Z",
-    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
+    "lastUpdated": "2025-01-14T17:00:00Z"
   },
   {
     "ticker": "NCL",
