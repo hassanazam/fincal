@@ -6,14 +6,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Commercial Banks",
-    "currentPrice": 171.48,
+    "currentPrice": 170.72,
     "dividend": {
-      "yieldTTM": 9.33,
+      "yieldTTM": 9.37,
       "yieldLastYear": 8.85,
       "annualPayoutTTM": 16.00,
-      "frequency": "annual"
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "APL",
@@ -29,7 +29,8 @@
       "annualPayoutTTM": 25.48,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z",
+    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
   },
   {
     "ticker": "BAFL",
@@ -45,7 +46,8 @@
       "annualPayoutTTM": 8.50,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z",
+    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
   },
   {
     "ticker": "BAHL",
@@ -54,14 +56,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Commercial Banks",
-    "currentPrice": 184.48,
+    "currentPrice": 183.67,
     "dividend": {
-      "yieldTTM": 0.00,
-      "yieldLastYear": 6.50,
-      "annualPayoutTTM": 0.00,
-      "frequency": "annual"
+      "yieldTTM": 9.26,
+      "yieldLastYear": 8.47,
+      "annualPayoutTTM": 17.00,
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "EFERT",
@@ -70,14 +72,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Fertilizer",
-    "currentPrice": 216.33,
+    "currentPrice": 215.00,
     "dividend": {
-      "yieldTTM": 9.94,
-      "yieldLastYear": 9.40,
+      "yieldTTM": 10.00,
+      "yieldLastYear": 11.32,
       "annualPayoutTTM": 21.50,
-      "frequency": "annual"
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "ENGRO",
@@ -93,7 +95,8 @@
       "annualPayoutTTM": 1.02,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z",
+    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
   },
   {
     "ticker": "EPCL",
@@ -105,11 +108,12 @@
     "currentPrice": 27.84,
     "dividend": {
       "yieldTTM": 0.00,
-      "yieldLastYear": 3.25,
+      "yieldLastYear": 3.59,
       "annualPayoutTTM": 0.00,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z",
+    "note": "No dividends paid in past 12 months (last payment Mar 19, 2024)"
   },
   {
     "ticker": "EPQL",
@@ -118,14 +122,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Power Generation",
-    "currentPrice": 29.10,
+    "currentPrice": 29.07,
     "dividend": {
-      "yieldTTM": 20.62,
-      "yieldLastYear": 19.50,
-      "annualPayoutTTM": 6.00,
-      "frequency": "annual"
+      "yieldTTM": 34.40,
+      "yieldLastYear": 24.57,
+      "annualPayoutTTM": 10.00,
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "FATIMA",
@@ -134,14 +138,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Fertilizer",
-    "currentPrice": 132.15,
+    "currentPrice": 128.24,
     "dividend": {
-      "yieldTTM": 5.30,
-      "yieldLastYear": 5.00,
-      "annualPayoutTTM": 7.00,
-      "frequency": "annual"
+      "yieldTTM": 6.63,
+      "yieldLastYear": 4.71,
+      "annualPayoutTTM": 8.50,
+      "frequency": "semiannual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "FFC",
@@ -157,7 +161,8 @@
       "annualPayoutTTM": 36.52,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z",
+    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
   },
   {
     "ticker": "HBL",
@@ -173,7 +178,8 @@
       "annualPayoutTTM": 16.24,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z",
+    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
   },
   {
     "ticker": "HMB",
@@ -182,14 +188,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Commercial Banks",
-    "currentPrice": 113.01,
+    "currentPrice": 114.81,
     "dividend": {
-      "yieldTTM": 10.62,
-      "yieldLastYear": 10.00,
+      "yieldTTM": 10.45,
+      "yieldLastYear": 11.32,
       "annualPayoutTTM": 12.00,
-      "frequency": "annual"
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "INDU",
@@ -198,14 +204,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Automobile Assembler",
-    "currentPrice": 2002.15,
+    "currentPrice": 1997.73,
     "dividend": {
-      "yieldTTM": 5.73,
-      "yieldLastYear": 5.40,
-      "annualPayoutTTM": 114.72,
-      "frequency": "annual"
+      "yieldTTM": 8.81,
+      "yieldLastYear": 6.05,
+      "annualPayoutTTM": 176.00,
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "ISL",
@@ -214,14 +220,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Iron & Steel",
-    "currentPrice": 90.96,
+    "currentPrice": 88.03,
     "dividend": {
-      "yieldTTM": 6.05,
-      "yieldLastYear": 5.75,
-      "annualPayoutTTM": 5.50,
+      "yieldTTM": 2.84,
+      "yieldLastYear": 6.25,
+      "annualPayoutTTM": 2.50,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "KAPCO",
@@ -230,14 +236,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Power Generation",
-    "currentPrice": 30.16,
+    "currentPrice": 30.04,
     "dividend": {
-      "yieldTTM": 28.18,
-      "yieldLastYear": 26.50,
-      "annualPayoutTTM": 8.50,
-      "frequency": "annual"
+      "yieldTTM": 23.30,
+      "yieldLastYear": 27.41,
+      "annualPayoutTTM": 7.00,
+      "frequency": "semiannual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "MCB",
@@ -253,7 +259,8 @@
       "annualPayoutTTM": 36.01,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z",
+    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
   },
   {
     "ticker": "NCL",
@@ -262,14 +269,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Textiles",
-    "currentPrice": 43.13,
+    "currentPrice": 43.29,
     "dividend": {
-      "yieldTTM": 0.00,
-      "yieldLastYear": 4.60,
-      "annualPayoutTTM": 0.00,
+      "yieldTTM": 4.62,
+      "yieldLastYear": 4.62,
+      "annualPayoutTTM": 2.00,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "POL",
@@ -285,7 +292,8 @@
       "annualPayoutTTM": 95.02,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z",
+    "dataSource": "pkfinance (fallback - stockanalysis unavailable)"
   },
   {
     "ticker": "TGL",
@@ -294,14 +302,14 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Glass & Ceramics",
-    "currentPrice": 192.93,
+    "currentPrice": 180.18,
     "dividend": {
-      "yieldTTM": 0.00,
-      "yieldLastYear": 5.20,
-      "annualPayoutTTM": 0.00,
+      "yieldTTM": 2.22,
+      "yieldLastYear": 2.22,
+      "annualPayoutTTM": 4.00,
       "frequency": "annual"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   },
   {
     "ticker": "UBL",
@@ -310,13 +318,13 @@
     "country": "Pakistan",
     "currency": "PKR",
     "sector": "Commercial Banks",
-    "currentPrice": 372.04,
+    "currentPrice": 370.78,
     "dividend": {
-      "yieldTTM": 3.77,
-      "yieldLastYear": 3.50,
-      "annualPayoutTTM": 14.03,
-      "frequency": "annual"
+      "yieldTTM": 8.63,
+      "yieldLastYear": 7.03,
+      "annualPayoutTTM": 32.00,
+      "frequency": "quarterly"
     },
-    "lastUpdated": "2025-01-14T14:30:00Z"
+    "lastUpdated": "2025-01-14T16:00:00Z"
   }
 ]
