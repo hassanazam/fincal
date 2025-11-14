@@ -1,0 +1,26 @@
+{
+  "Pakistan": {
+    "default": 15,
+    "description": "Standard dividend withholding tax for active taxpayers"
+  },
+  "USA": {
+    "default": 15,
+    "description": "Qualified dividends federal tax (most common rate)"
+  },
+  "Canada": {
+    "default": 25,
+    "description": "Average marginal tax rate on eligible dividends"
+  },
+  "UK": {
+    "default": 8.75,
+    "description": "Basic rate dividend tax (2025)"
+  },
+  "India": {
+    "default": 10,
+    "description": "Dividend distribution tax for residents"
+  },
+  "UAE": {
+    "default": 0,
+    "description": "No dividend tax in UAE"
+  }
+}

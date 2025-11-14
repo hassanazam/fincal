@@ -1,0 +1,13 @@
+{
+  "baseCurrency": "USD",
+  "rates": {
+    "USD": 1.00,
+    "PKR": 280.79,
+    "CAD": 1.40,
+    "GBP": 0.74,
+    "EUR": 0.86,
+    "INR": 83.20,
+    "AED": 3.67
+  },
+  "lastUpdated": "2025-01-14T14:30:00Z"
+}
