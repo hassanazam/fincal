@@ -3,6 +3,7 @@ import Home from './pages/Home'
 import SimpleInterest from './pages/SimpleInterest'
 import CompoundInterest from './pages/CompoundInterest'
 import LoanCalculator from './pages/LoanCalculator'
+import DividendCalculator from './pages/DividendCalculator'
 import './App.css'
 
 function App() {
@@ -24,6 +25,9 @@ function App() {
           <Link to="/loan-calculator" className={location.pathname === '/loan-calculator' ? 'active' : ''}>
             Loan Calculator
           </Link>
+          <Link to="/dividend-calculator" className={location.pathname === '/dividend-calculator' ? 'active' : ''}>
+            Dividend Calculator
+          </Link>
         </div>
       </nav>
 
@@ -33,6 +37,7 @@ function App() {
           <Route path="/simple-interest" element={<SimpleInterest />} />
           <Route path="/compound-interest" element={<CompoundInterest />} />
           <Route path="/loan-calculator" element={<LoanCalculator />} />
+          <Route path="/dividend-calculator" element={<DividendCalculator />} />
         </Routes>
       </main>
 

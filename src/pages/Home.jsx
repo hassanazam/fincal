@@ -21,6 +21,11 @@ function Home() {
           <h2>🏠 Loan Calculator</h2>
           <p>Calculate EMI and total interest on loans</p>
         </Link>
+
+        <Link to="/dividend-calculator" className="calculator-card">
+          <h2>💵 Dividend Calculator</h2>
+          <p>Compare dividend income across multiple stocks</p>
+        </Link>
       </div>
 
       <div className="features">
